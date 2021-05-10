@@ -31,7 +31,7 @@ case, what we really want is to encrypt the key without a “real” 64 bits
 data. To allow it, usually a null 8-bytes (64-bits) string is used as data
 input.
 
-<center><img src = "https://www.tutorialspoint.com/cryptography/images/des_structure.jpg" height = "400" width = "400"></img></center>
+<img src = "https://www.tutorialspoint.com/cryptography/images/des_structure.jpg" align = "middle" height = "400" width = "400"></img>
 
 ## Output: 
-<center><img src = "https://i.ibb.co/C0NVP9r/Screenshot-2021-05-11-at-3-44-19-AM.png" height = "600" width = "500"></img></center>
+<img src = "https://i.ibb.co/C0NVP9r/Screenshot-2021-05-11-at-3-44-19-AM.png" align = "middle" height = "600" width = "540"></img>
